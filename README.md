@@ -143,9 +143,15 @@ terraform init
 ````
 terraform plan
 ````
+![terraformplan](https://github.com/MrSchipRozen/AtividadeSemana06M10/assets/99350292/2e39847b-d344-4020-8b26-b329093550cd)
+
 ````
 terraform apply
+
 ````
+![terraformapply](https://github.com/MrSchipRozen/AtividadeSemana06M10/assets/99350292/8187dcc7-eaba-451f-94d6-ca0df0b85167)
+
+
 ![Screenshot 2024-06-11 at 11 01 25](https://github.com/MrSchipRozen/AtividadeSemana06M10/assets/99350292/2548ae90-c4e7-4143-93b1-f908670a28a8)
 
 Como podemos ver no print foi feito a criação da instancia EC2 na interface da AWS e está tudo rodando direitinho
