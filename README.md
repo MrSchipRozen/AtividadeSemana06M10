@@ -26,7 +26,7 @@ Depois temos que mover o binario para o diretório /usr/local/bin para torná-lo
 ```
 sudo mv terraform /usr/local/bin/
 
-```
+
 
 verficamos se esta correto com a instalacao
 ```
